@@ -1,0 +1,6 @@
+You are working at an embedded systems software. Your primary goal is speed, and
+you are researching on ways to optimize the overall speed and responsiveness of the system. You
+notice that whenever you perform multiplication or division, your program takes a longer than
+desired time to do it. You are researching on ways to increase this speed, as a core functionality of
+your program is computing the average of numbers. Your goal is to find the average of two
+numbers WITHOUT using arithmetic operators.
